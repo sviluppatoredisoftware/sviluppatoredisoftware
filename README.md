@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Patrick Springer 👋
 
-<!--
-**sviluppatoredisoftware/sviluppatoredisoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Application Developer** from **Lower Saxony, Germany**.
 
-Here are some ideas to get you started:
+I'm passionate about **programming** and **trading**, and outside of tech I'm especially interested in **chess**, **calisthenics**, and **cycling**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+At university, I mainly learned **Java**.  
+I mostly used **Python** for ethical hacking topics and for building **Forex** and **CFD trading bots**.
+
+Today, my private projects mainly focus on **C#**, **Blazor**, and **.NET MAUI**, while in my professional work I primarily use **Business Central AL**.
+
+## Tech Stack
+
+- **C# / .NET**
+- **Blazor**
+- **.NET MAUI**
+- **Business Central AL**
+- **Java**
+- **Python**
+
+## Interests
+
+- Programming
+- Trading
+- Chess
+- Calisthenics
+- Cycling
